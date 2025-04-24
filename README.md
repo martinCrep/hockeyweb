@@ -13,3 +13,8 @@ In project map runn install to install libs for jakyll project.
 ```
 bundle install
 ```
+
+
+```
+git mv -f .\au1.JPG .\au1.jpg 
+```
