@@ -17,19 +17,19 @@ author: martincrepinsek
 
 In the 2023/24 season, I took a big step and moved to the United States to play for the Idaho Falls Spud Kings in the NCDC — a highly competitive junior league known for its physicality and fast-paced play. It was my first time playing outside of Europe, and everything felt new: the rink dimensions, the game style, even the rules. It took some time to adjust, but the experience pushed me to grow as both a player and a person.
 
-![image](/assets/img/uploads/usa1.jpeg)
+<img src="{{ site.baseurl }}/assets/img/uploads/usa1.jpeg" alt="image">
 
 Playing in front of 5,000 fans every night was something truly unforgettable. The energy in the building was electric, and it gave me a real taste of how passionate hockey culture is in North America. One of the highlights of the season was being nominated for Rookie of the Week, which was a proud moment and a recognition of my efforts early in the season.
 
-![image](/assets/img/uploads/usa2.jpeg)
+<img src="{{ site.baseurl }}/assets/img/uploads/usa2.jpeg" alt="image">
 
 Off the ice, I lived with an amazing billet family who welcomed me like one of their own. They helped me experience real American life — from school spirit and weekend football games to trying classic American foods. It was a cultural experience that I’ll always carry with me.
 
-![image](/assets/img/uploads/usa3.jpeg)
+<img src="{{ site.baseurl }}/assets/img/uploads/usa3.jpeg" alt="image">
 
 That said, it wasn’t all easy. The lifestyle, the way of thinking, and even day-to-day routines were very different from what I was used to in Europe. While I gained a lot from the season, both on the ice and in life, I eventually realized that North America wasn’t quite the right environment for me long-term.
 
-![image](/assets/img/uploads/usa4.jpeg)
+<img src="{{ site.baseurl }}/assets/img/uploads/usa4.jpeg" alt="image">
 
 That realization led me to make the decision to return to Europe the following year, where I continued my development in Germany with a fresh mindset and valuable lessons learned.
 

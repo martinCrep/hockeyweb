@@ -17,6 +17,8 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Statistics
+    url: /martinstats
 #  - title: Contact
 #    url: /contact
 #  - title: Feed
