@@ -6,7 +6,7 @@ permalink: /martinstats/
 
 # Martin Črepinšek
 
-Official statistics.
+Official live statistics.
 
 <div id="stats">Loading player stats...</div>
 

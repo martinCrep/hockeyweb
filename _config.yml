@@ -19,6 +19,8 @@ menu:
     url: /about
   - title: Statistics
     url: /martinstats
+  - title: Flex Calculator
+    url: /flexcalculator
 #  - title: Contact
 #    url: /contact
 #  - title: Feed

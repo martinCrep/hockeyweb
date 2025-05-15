@@ -18,6 +18,8 @@ menu:
     url: /contact
   - title: Statistics
     url: /martinstats
+ - title: Flex Calculator
+    url: /flexcalculator
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
