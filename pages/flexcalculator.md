@@ -131,7 +131,7 @@ permalink: /flexcalculator/
         }
 
         const zones = [
-            { minH: 70, maxH: 122, minW: 25, maxW: 40, flex: 20 },
+            { minH: 60, maxH: 122, minW: 25, maxW: 40, flex: 20 },
             { minH: 123, maxH: 135, minW: 30, maxW: 50, flex: 30 },
             { minH: 136, maxH: 148, minW: 35, maxW: 60, flex: 40 },
             { minH: 149, maxH: 161, minW: 40, maxW: 70, flex: 50 },
@@ -142,6 +142,7 @@ permalink: /flexcalculator/
             { minH: 175, maxH: 187, minW: 65, maxW: 100, flex: 85 },
             { minH: 188, maxH: 200, minW: 80, maxW: 110, flex: 95 },
             { minH: 188, maxH: 200, minW: 90, maxW: 120, flex: 105 },
+            { minH: 201, maxH: 250, minW: 90, maxW: 120, flex: 120 },
         ];
 
         const match = zones.find(
@@ -175,7 +176,7 @@ permalink: /flexcalculator/
             const chart = document.getElementById("flexChart");
             const referenceLine = document.getElementById("referenceLine");
             const referenceLabel = document.getElementById("referenceLabel");
-            const myFlex = 85;
+            const myFlex = 82;
 
             const chartWidth = chart.clientWidth;
             if (chartWidth === 0) return;
