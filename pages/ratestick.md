@@ -8,6 +8,6 @@ permalink: /ratestick/
 <iframe 
   src="https://school-project.rwx.si/" 
   width="100%" 
-  height="600" 
+  height="1200" 
   style="border:none;">
 </iframe>
