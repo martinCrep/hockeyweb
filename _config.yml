@@ -21,6 +21,8 @@ menu:
     url: /martinstats
   - title: Flex Calculator
     url: /flexcalculator
+  - title: Rate your stick
+    url: /ratestick
 #  - title: Contact
 #    url: /contact
 #  - title: Feed

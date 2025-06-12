@@ -22,6 +22,8 @@ menu:
     url: /flexcalculator
   - title: Feed
     url: /feed.xml
+  - title: Rate your stick
+    url: /ratestick
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
